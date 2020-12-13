@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=MainCircuit.SchDoc
+Record=SheetSymbol|SourceDocument=MainCircuit.SchDoc|Designator=U_PowerSupply|SchDesignator=U_PowerSupply|FileName=PowerSupply.SchDoc|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainCircuit.SchDoc|Designator=U_Rail_1|SchDesignator=U_Rail_1|FileName=Rail_1.SchDoc|SymbolType=Normal|RawFileName=Rail_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainCircuit.SchDoc|Designator=U_Rail_2|SchDesignator=U_Rail_2|FileName=Rail_2.SchDoc|SymbolType=Normal|RawFileName=Rail_2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainCircuit.SchDoc|Designator=U_Rail_3|SchDesignator=U_Rail_3|FileName=Rail_3.SchDoc|SymbolType=Normal|RawFileName=Rail_3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MainCircuit.SchDoc|Designator=U_Rail_4|SchDesignator=U_Rail_4|FileName=Rail_4.SchDoc|SymbolType=Normal|RawFileName=Rail_4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
